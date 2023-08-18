@@ -8,11 +8,14 @@ The project was created using Cisco Packet Tracer, a network simulator that allo
 
 # To use the project
 
--> Download and install Cisco Packet Tracer.
--> Open the project file project_final.pkt.
--> Run the simulation and observe how the system works.
+* **Download and install Cisco Packet Tracer**
+* **Open the project file project_final.pkt.**
+* **Run the simulation and observe how the system works**
+
 
 
 # To learn more
--> The Cisco Packet Tracer documentation provides more information about the features of the software.
--> There are many online resources that can help you learn about home automation and networking.
+
+* **The Cisco Packet Tracer documentation provides more information about the features of the software**
+* **There are many online resources that can help you learn about home automation and networking**
+
