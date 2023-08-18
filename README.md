@@ -16,6 +16,7 @@ The project was created using Cisco Packet Tracer, a network simulator that allo
 
 # To learn more
 
+* **Refer the pdf and presentation files given in the repository**
 * **The Cisco Packet Tracer documentation provides more information about the features of the software**
 * **There are many online resources that can help you learn about home automation and networking**
 
