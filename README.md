@@ -9,7 +9,7 @@ The project was created using Cisco Packet Tracer, a network simulator that allo
 # To use the project
 
 * **Download and install Cisco Packet Tracer**
-* **Open the project file project_final.pkt.**
+* **Open the project file <code>project_final.pkt.</code>**
 * **Run the simulation and observe how the system works**
 
 
